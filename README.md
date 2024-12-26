@@ -1,0 +1,1 @@
+This is a backend codebase for a journalApp
